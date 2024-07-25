@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Mehul Bhargav 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrmehulbhargav/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
